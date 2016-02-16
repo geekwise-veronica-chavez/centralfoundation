@@ -34,7 +34,7 @@ li{
 main{
     margin: 0 auto;
     padding: 0;
-    background-color: aqua;
+    background-color:#ffffff;
     width: 80%;
     height: 1000px;
     align-content: center;
@@ -46,7 +46,7 @@ section{
     padding: 0;
     width:80%;
     height:820px;
-    background-color: azure;
+    background-color: #ffffff;
     text-align: center;        
 }
 #section1{
@@ -106,7 +106,7 @@ section{
     width:50%;
     height: 820px;
     box-sizing: border-box;
-    background-color: antiquewhite; 
+    background-color: #ffffff; 
     float: left;
 }
 
@@ -173,15 +173,27 @@ p{  margin: 0;
 #section3{
     margin: 0 auto;
     height:400px ;
-    width:50%;
-    background-color: yellowgreen;
+    width:285px;
+    background-color:#ffdf7a;
     float: right;
 }
 #what{
     margin: 0;
     padding: 0;
-    float: right;
-    width: 25%;
-    height: 127px;
+    float: none;
+    
+   
+}
+#what2{
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    
+}
+#section4{
+    margin: 0;
+    padding: 0;
+    width: 80%;
+    
 }
 
