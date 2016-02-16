@@ -35,10 +35,10 @@ main{
     margin: 0 auto;
     padding: 0;
     background-color:#ffffff;
-    width: 80%;
+    width: 62%;
     height: 1000px;
     align-content: center;
-    text-align: center;
+/*    text-align: center;*/
 
 }
 section{
@@ -59,10 +59,14 @@ section{
 }
 #mission{
     margin: 0;
-    padding: 0;
+    padding: 20px;
     width: 198px;
     height: 36px;
     float: left;
+    color: #cccc00;
+    font-size: 20px;
+    text-align: center;
+    line-height: 4;
 }
 #miss{
     margin: 0 auto;
@@ -70,6 +74,8 @@ section{
     width: 208px;
     height:126px;
     float: left;
+    font-size: 15px;
+    text-align: center;
 }
 #one{
     margin: 5px auto;
@@ -97,6 +103,7 @@ section{
     margin: 0 auto;
     padding: 0;
     width: 100%;
+    
     
 }
 
@@ -213,16 +220,18 @@ p{  margin: 0;
     
 }
 footer{
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
-    width: 80%;
+    width: 60%;
     height:70px;
+    float: 
 }
 #edu{
     margin: 0;
     padding: 0;
     widows: 100%;
     height: 70px;
+    float: left;
     text-align: center;
 }
 #edu2{
@@ -230,5 +239,5 @@ footer{
     padding: 0;
     widows: 100%;
     height: 70px;
-    float: right
+    float: right;
 }
