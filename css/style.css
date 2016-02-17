@@ -181,7 +181,7 @@ p{  margin: 0;
 #section3{
     margin: 0 auto;
     height:400px ;
-    width:285px;
+    width:290px;
     background-color:#ffdf7a;
     float: right;
 }
@@ -197,6 +197,94 @@ p{  margin: 0;
     padding: 0;
     width: 100%;
     
+}
+#what3{
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    font-size: 14px
+}
+#board{
+    font-size: 20px;
+    margin: auto 0;
+    padding: 0;
+    width: 100%;
+    color: black;
+    
+}
+#bold_text{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 16px;
+    color: black;
+    
+}
+#board2{
+     font-size: 14px;
+    margin: auto 0;
+    padding: 0;
+    width: 100%;
+    color: black;  
+}
+#bold_text2{
+     margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 16px;
+    color: black;
+}
+#board3{
+    font-size: 14px;
+    margin: auto 0;
+    padding: 0;
+    width: 100%;
+    color: black; 
+    
+}
+#bold_text3{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 16px;
+    color: black;
+}
+
+#board4{
+    font-size: 14px;
+    margin: auto 0;
+    padding: 0;
+    width: 100%;
+    color: black;
+}
+#bold_text4{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 16px;
+    color: black;
+}
+#board5{
+    font-size: 16px;
+    margin: auto 0;
+    padding: 0;
+    width: 100%;
+    color: black; 
+}
+#bold_text5{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 16px;
+    color: black;
+}
+#red1{
+    color: red;
+    font-size: 16px;
+}
+#red2{
+    color: red;
+    font-size: 16px;
 }
 #section4{
     margin: 0;
